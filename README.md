@@ -1,6 +1,7 @@
-# Price-Comparison-Website---RESTApi NOTE: Do "npm install" to download the node_modules folder 
+# Price-Comparison-Website---RESTApi
 ## Price-Comparison-Website---Frontend - https://github.com/Danny-hacks/Price-Comparison-Website---Frontend
 ## Price-Comparison-Website---WebScraping - https://github.com/Danny-hacks/Price-Comparison-Website---WebScraping
+### NOTE: Do "npm install" to download the node_modules folder 
 
 ## **Website Description and Overview**
 
