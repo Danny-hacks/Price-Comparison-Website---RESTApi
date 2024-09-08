@@ -1,14 +1,13 @@
-Price-Comparison-Website---RESTApi
+# Price-Comparison-Website---RESTApi
 ## Price-Comparison-Website---Frontend - https://github.com/Danny-hacks/Price-Comparison-Website---Frontend
 
 ## **Website Description and Overview**
 
 Book Match is a user-friendly website that offers a wide range of reading options for readers who
-value convenience and diversity. Through this platform, you can easily explore a vast array of
+value convenience and diversity. This platform allows you to easily explore a vast array of
 literature from the comfort of your home. We acquire data through a systematic web scraping
 method. Our web scrapers extract pricing information and additional data related to books from
-various designated websites. Web scraping was streamlined to Romance books to be able to
-properly demonstrate the comparison feature. 
+various designated websites. Web scraping was streamlined to Romance books to demonstrate the comparison feature properly. 
 
 **Landing Page:**
 The landing page of the Book Match website has an attractive and user-friendly design. It
